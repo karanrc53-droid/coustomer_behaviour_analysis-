@@ -123,5 +123,6 @@ The interactive dashboard (`customer_behavior_dashboard.pbix`) includes:
 
 ## 🔗 Connect
 
-**LinkedIn:** [linkedin.com/in/karanyadav](https://linkedin.com/in/karanyadav) *(update with your actual URL)*  
-**Email:** *(add your email if comfortable)*
+**LinkedIn:** [linkedin.com/in/karanyadav]([https://linkedin.com/in/karanyadav](https://www.linkedin.com/in/karan12yadav/)) *(update with your actual URL)*  
+**Email:** *(karanrc53@gmail.com)*
+
